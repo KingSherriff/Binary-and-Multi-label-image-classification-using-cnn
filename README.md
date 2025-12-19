@@ -20,7 +20,7 @@ Want to see the model in action? Follow these steps to test it on a sample image
     pip install -r requirements.txt
     ```
 2.  **Launch the interactive demo:**
-    - Open `demo_histology_model.ipynb` in Jupyter Notebook or Google Colab.
+    - Open [`demo_histology_model.ipynb`](demo_histology_model.ipynb) in Jupyter Notebook or Google Colab.
     - Follow the instructions to load a pre-trained model and run inference.
 3.  **View Results:** The demo will display the classification
 
