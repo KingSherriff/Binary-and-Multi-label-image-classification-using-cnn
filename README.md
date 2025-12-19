@@ -40,7 +40,7 @@ For the best results with the demo, input images should meet the following requi
 - **Origin:** Ideally from the [BreaKHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) dataset or similar sources.
 - **Note:** The model was trained on 256x256px patches from 700x460px images of various zoom magnitudes. Performance may vary on images from different sources.
 
-## 🔬 Detailed Methodology & Research
+## Detailed Methodology & Research
 
 For a deep dive into the data exploration, model architectures, training procedures, and result analysis, please see the complete research notebook:
 **[`research_methodology.ipynb`](research_methodology.ipynb)**
