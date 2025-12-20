@@ -7,7 +7,7 @@ This project develops a Convolutional Neural Network (CNN) system to assist in t
 
 **Key Features:**
 - **Dual Classification:** Predicts both benign/malignant status and one of eight specific cancer subtypes.
-- **Ready-to-Use Demo:** An interactive Jupyter Notebook allows users to test the model on new images. (Coming Soon)
+- **Ready-to-Use Demo:** An interactive Jupyter Notebook allows users to test the model on new images.
 - **Reproducible Research:** Complete training code and methodology are openly documented.
 
 ## Quick Start: Test the Model
