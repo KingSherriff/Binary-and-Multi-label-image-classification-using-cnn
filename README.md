@@ -7,7 +7,7 @@ This project develops a Convolutional Neural Network (CNN) system to assist in t
 
 **Key Features:**
 - **Dual Classification:** Predicts both benign/malignant status and one of eight specific cancer subtypes.
-- **Ready-to-Use Demo:** An interactive Jupyter Notebook allows users to test the model on new images. (Coming Soon)
+- **Ready-to-Use Demo:** An interactive Jupyter Notebook allows users to test the model on new images.
 - **Reproducible Research:** Complete training code and methodology are openly documented.
 
 ## Quick Start: Test the Model
@@ -20,7 +20,7 @@ Want to see the model in action? Follow these steps to test it on a sample image
     pip install -r requirements.txt
     ```
 2.  **Launch the interactive demo:**
-    - Open `demo_histology_model.ipynb` in Jupyter Notebook or Google Colab.
+    - Open [`demo_histology_model.ipynb`](demo_histology_model.ipynb) in Jupyter Notebook or Google Colab.
     - Follow the instructions to load a pre-trained model and run inference.
 3.  **View Results:** The demo will display the classification
 
@@ -40,7 +40,7 @@ For the best results with the demo, input images should meet the following requi
 - **Origin:** Ideally from the [BreaKHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) dataset or similar sources.
 - **Note:** The model was trained on 256x256px patches from 700x460px images of various zoom magnitudes. Performance may vary on images from different sources.
 
-## 🔬 Detailed Methodology & Research
+## Detailed Methodology & Research
 
 For a deep dive into the data exploration, model architectures, training procedures, and result analysis, please see the complete research notebook:
 **[`research_methodology.ipynb`](research_methodology.ipynb)**
